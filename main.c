@@ -1,1 +1,1 @@
-int main() {\n  return 0;\n}
+int main() {\n  printf("Hello from Instructor!\n"); return 0;\n}
